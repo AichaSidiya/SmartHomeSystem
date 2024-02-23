@@ -8,12 +8,20 @@ The system manages everyday tasks automatically including smart door lock, motio
 
 - Arduino Uno
 - Bread Board
+
+  
 **Input Devices**
+
+
 - Keypad 4x4
 - Temperature Sensor LM35
 - MQ-2 Gas Sensor
 - IR Flame Sensor
+
+  
 **Output Devices**
+
+
 - Micro Servo Motor
 - 3 White LED
 - Piezo buzzer
