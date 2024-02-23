@@ -23,7 +23,7 @@ The system manages everyday tasks automatically including smart door lock, motio
 
 
 - Micro Servo Motor
-- 3 White LED
+- White LED
 - Piezo buzzer
 
 ### Components
