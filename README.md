@@ -36,3 +36,11 @@ The system manages everyday tasks automatically including smart door lock, motio
 
 
 
+
+## Contributors
+* Aicha Sidiya
+* Mirna Ali
+* Lamar Aljahdali
+
+## Acknowledgements
+
