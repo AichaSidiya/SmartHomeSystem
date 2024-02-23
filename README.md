@@ -51,4 +51,13 @@ The system manages everyday tasks automatically including smart door lock, motio
 * Lamar Aljahdali
 
 ## Acknowledgements
+## References
+
+* [RFID door lock system with Arduino Nano Board Youtube](https://youtube.com/shorts/md3lKGtLRJw?si=r2jgCmRJbnTZf1uV)
+
+* [Circuit Design Automatic Light on off system Tinkercad](https://www.tinkercad.com/things/04heSjsfebr-automatic-light-on-off-system)
+
+* [Circuit design flame sensor Tinkercad](https://www.tinkercad.com/things/1JwFPz6fOV6-flame-sensor)
+
+* [Temperature based Fan Speed Controller Project | Arduino Uno - IOT YouTube](https://m.youtube.com/watch?v=pVxhErg4Fog)
 
