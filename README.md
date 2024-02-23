@@ -27,20 +27,25 @@ The system manages everyday tasks automatically including smart door lock, motio
 - Piezo buzzer
 
 ### Components
+![Components](https://github.com/AichaSidiya/SmartHomeSystem/blob/main/components.png)
 
 
 
 ### Circuit
+![Circuit](https://github.com/AichaSidiya/SmartHomeSystem/blob/main/circuit.png)
 
 
 
 
 ### Physical circuit
+![Pgysical1](https://github.com/AichaSidiya/SmartHomeSystem/blob/main/physical1.jpg)
+![Physical2](https://github.com/AichaSidiya/SmartHomeSystem/blob/main/physical2.jpg)
 
 
 
 
 ### Schematic View
+![Smart Home System Schematic](https://github.com/AichaSidiya/SmartHomeSystem/blob/main/schematic.png)
 
 
 
