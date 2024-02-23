@@ -51,7 +51,6 @@ The system manages everyday tasks automatically including smart door lock, motio
 * Lamar Aljahdali
 
 ## Acknowledgements
-## References
 
 * [RFID door lock system with Arduino Nano Board Youtube](https://youtube.com/shorts/md3lKGtLRJw?si=r2jgCmRJbnTZf1uV)
 
